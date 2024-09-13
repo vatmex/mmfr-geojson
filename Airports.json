@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.7536, 16.7569]
+      },
+      "properties": {
+        "name": "Acapulco International",
+        "icao": "MMAA",
+        "iata": "ACA",
+        "popup": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.0719444, 19.4363889]
+      },
+      "properties": {
+        "name": "Mexico City International",
+        "icao": "MMMX",
+        "iata": "MEX",
+        "popup": ""
+      }
+    }
+  ]
+}
