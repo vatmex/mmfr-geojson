@@ -11,7 +11,7 @@
         "name": "Acapulco International",
         "icao": "MMAA",
         "iata": "ACA",
-        "popup": ""
+        "popup": "<strong>MMAA - Acapulco International</strong><br>Approach: 119.900<br>Tower/CTAF: 118.500<br>ATIS:127.000<br>SOP: <a href=\"https://sop.vatmex.com.mx/es/aerodromos/mmun\" target=\"_blank\">https://sop.vatmex.com.mx/es/aerodromos/mmun</a>"
       }
     },
     {
@@ -24,7 +24,7 @@
         "name": "Mexico City International",
         "icao": "MMMX",
         "iata": "MEX",
-        "popup": ""
+        "popup": "<strong>MMMX - Mexico City International</strong><br>Approach: 119.900"
       }
     }
   ]
